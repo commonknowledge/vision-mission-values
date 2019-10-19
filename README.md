@@ -38,3 +38,6 @@ Common Knowledge is optimistic about the power of people to collectively overcom
 ## Cooperation
 As a not-for-profit workers cooperative, we also adhere to the cooperative values of **self-help**, **self-responsibility**, **democracy**, **equality**, **equity** and **solidarity**.
 
+---
+
+Constent reached 18th of October 2019. Review intended for 18th of April 2020.
