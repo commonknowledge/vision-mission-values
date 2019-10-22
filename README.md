@@ -42,6 +42,5 @@ As a not-for-profit workers cooperative, we also adhere to the cooperative value
 
 ---
 
-_Constent reached 18th of October 2019._
-
+_Consent reached 18th of October 2019._
 _Review 18th of April 2020._
