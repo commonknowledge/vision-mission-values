@@ -22,7 +22,7 @@ Common Knowledge is active and practical in approach. We use theory and practice
 
 ### Thoughtfulness
 
-We understand and respect the complexity of social and technological structures. We always think before intervening, intervene at the scale appropriate, listen, reflect and learn.
+We understand and respect the complexity of political and technological structures. We always think before intervening, intervene at the scale appropriate, listen, reflect and learn.
 
 ### Interdependence
 Common Knowledge acts with generosity and compassion. We are part of a wider ecosystem and rely upon other people, their communities and the natural world.
