@@ -27,8 +27,8 @@ We understand and respect the complexity of political and technological structur
 ### Interdependence
 Common Knowledge acts with generosity and compassion. We are part of a wider ecosystem and rely upon other people, their communities and the natural world.
 
-### Optimism
-Common Knowledge is optimistic about the power of people to collectively overcome oppression and build a better future.
+### Resilience
+The scale and importance of the problems we face can feel overwhelming. We endevour to face our work with hope and compassion. We remember the capcity of people to collectively overcome oppression and build a better future.
 
 ---
 
