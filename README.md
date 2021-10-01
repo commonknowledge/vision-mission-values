@@ -12,10 +12,6 @@ Working directly with grassroots activists, we design digital tools that make ra
 
 ## Values
 
-### Agency
-
-Common Knowledge seeks to empower people to change their own lives through self-organisation. We trust that people can.
-
 ### Solidarity
 
 Common Knowledge acts in solidarity with those who are struggling against all forms of oppression. Solidarity is power. Diversity is strength.
@@ -31,17 +27,11 @@ Common Knowledge acts thoughtfully, listens carefully and learns. We build tools
 ### Interdependence
 Common Knowledge acts with generosity and compassion. We are part of a wider ecosystem and rely upon other people, their communities and the natural world.
 
-### Openness
-Common Knowledge practices openness, between ourselves and with others. Open work invites collaboration and iteration. We want to show others how to do what we do and keep ourselves accountable.
-
 ### Optimism
 Common Knowledge is optimistic about the power of people to collectively overcome oppression and build a better future.
 
-### Cooperation
-As a not-for-profit workers cooperative, we also adhere to the cooperative values of **self-help**, **self-responsibility**, **democracy**, **equality**, **equity** and **solidarity**.
-
 ---
 
-_Consent reached 18th of October 2019._
+_Consent reached XXX of October 2021._
 
-_Review 18th of April 2020._
+_Review X of X 2022._
