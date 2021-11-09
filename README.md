@@ -1,37 +1,32 @@
 # Common Knowledge
 
-## Vision
-
-A world of abundance, free from oppression.
-
-To get there, we need people who are confident in their capacity to self-organise, empowered by digital technology.
-
 ## Mission
 
-Working directly with grassroots activists, we design digital tools that make radical change possible.
-
+We are a not-for-profit worker cooperative of technologists, designers, researchers and facilitators. We work with grassroots organisers and communities around the world to build power and achieve radical change. We use digital technologies to multiply the impact and capacity of social movements.
 ## Values
 
 ### Solidarity
 
-Common Knowledge acts in solidarity with those who are struggling against all forms of oppression. Solidarity is power. Diversity is strength.
+We act in solidarity with those who are struggling against all forms of oppression. Solidarity is power. Diversity is strength.
 
-### Pragmatism
+### Interdependence
 
-Common Knowledge is active and practical in approach. We use theory and practice to intensify each other.
+We cultivate reciprocal relationships where we can practice collaboration and generosity, not competition and scarcity. We see the commons as our opportunity to have the biggest impact.
 
 ### Thoughtfulness
 
-We understand and respect the complexity of political and technological structures. We always think before intervening, intervene at the scale appropriate, listen, reflect and learn.
+We understand and respect the complexity of political and technological structures. We trust people to know their own context best. We think before intervening and intervene at the appropriate scale. We listen deeply and reflect with intention.
 
-### Interdependence
-Common Knowledge acts with generosity and compassion. We are part of a wider ecosystem and rely upon other people, their communities and the natural world.
+### Practice
 
-### Resilience
-The scale and importance of the problems we face can feel overwhelming. We endevour to face our work with hope and compassion. We remember the capcity of people to collectively overcome oppression and build a better future.
+We believe learning is an endless journey. We use theory and practice to intensify each other. We are curious, creative and interdisciplinary. We ask questions and lean into change.
+
+### Optimism
+
+We approach problems as challenges and see failures as opportunities to grow. We remember the capacity of people to collectively build a better future. We trust that people can.
 
 ---
 
-_Consent reached XXX of October 2021._
+_Consent reached 8 November 2021._
 
-_Review X of X 2022._
+_Review 12 October 2022._
