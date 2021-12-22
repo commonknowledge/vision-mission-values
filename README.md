@@ -1,5 +1,8 @@
 # Common Knowledge
 
+## Vision
+An interdependent network of communities working together to achieve ecological and social justice, empowered by digital technology.
+
 ## Mission
 
 We are a not-for-profit worker cooperative of technologists, designers, researchers and facilitators. We work with grassroots organisers and communities around the world to build power and achieve radical change. We use digital technologies to multiply the impact and capacity of social movements.
